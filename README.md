@@ -16,5 +16,5 @@ Usage
 File is made for JupyterNotebook. Data has to be saved in folder 'data'. 
 To be able to load data you also have to download mnist_reader.py file.
 Program is based on Tensorflow machine learning library. You can get it here https://www.tensorflow.org/tensorboard/get_started
-Full model can be aslo downloaded form this git repository. 
+Full model will be aslo saved after running the program. 
 Other libraries used are matplotlib and numpy. 
