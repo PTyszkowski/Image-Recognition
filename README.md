@@ -1,6 +1,6 @@
 Introductiion 
 
-Problem: reconaizing cloaths icons from Fashion MNIST dataset. Its a data set with 60,000 train examples and 10,000 test examples sized 28x28 pixels. Each icon belongs to one class of ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat','Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
+Problem: reconaizing cloaths icons from Fashion MNIST dataset. Its a data set with 60,000 train examples and 10,000 test examples sized 28x28 pixels. Each icon belongs to one class from ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat','Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
 
 Methods
 
